@@ -1,0 +1,51 @@
+h1 {
+    color: #f5f5f5;
+    font-size: 2em;
+}
+body {
+	color: #f5f5f5;
+    background-color: #2c607f;
+}
+div#header {
+    background-color: #4290bf;
+    width: 100%;
+}
+table.simulator{
+width:840px;}
+th{background-color:#163040;}
+td{background-color:#163040;}
+.col1{width:15%;}
+.col2{width:15%;}
+.col3{width:10%;}
+.col4{width:10%;}
+.col5{width:10%;}
+.col6{width:10%;}
+.col7{width:10%;}
+.col8{width:10%;}
+.col9{width:10%;}
+td{text-align:center;}
+select{
+text-align:center;
+color:#f5f5f5;
+background-color:#163040;
+border:none;
+width:100%;}
+input{
+		position:relative;
+		left:390px;
+		width:120px;
+		border:none;
+		-moz-border-radius:5px;
+		-webkit-border-radius:5px;
+		border-radius:5px;
+		padding:5px 10px;
+		background-color:#163040;
+		color:#f5f5f5;
+		font-size:1.5em;
+	}
+input:hover{
+			border-top: groove 2px #f5f5f5;
+			border-left: groove 2px #f5f5f5;
+			border-right:groove 2px #f5f5f5;
+			border-bottom:groove 2px #f5f5f5;
+			}
